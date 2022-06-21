@@ -1,10 +1,10 @@
-# Calculator-App
+# Calculator-App ✖ ➗ ➕ ➖ 
 
-## Description
+## Description 🗒️
 Android App which allows the user to calculate complex mathematical queries in no time.  
 
-## Tech stack
+## Tech stack 👨‍💻
 Kotlin, XML.
 
-## Tool
+## Tool 📱
 Android Studio
